@@ -4,6 +4,7 @@
       "idiom" : "universal",
       "filename" : "tictactoe.png",
       "scale" : "1x"
+<<<<<<< HEAD
     },
     {
       "idiom" : "universal",
@@ -12,6 +13,8 @@
     {
       "idiom" : "universal",
       "scale" : "3x"
+=======
+>>>>>>> a14f108b8f0aacd8d1eb4a0d2c5027f542de5ba5
     }
   ],
   "info" : {
